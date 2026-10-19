@@ -36,3 +36,17 @@ As migrações do banco ainda não estão incluídas nesta exportação. Portant
 - `.openai/hosting.json`: configuração do Site original.
 
 O envio ao GitHub não configura deploy automático nem altera a publicação existente.
+
+## Fazenda modelo e capturas
+
+[Abrir demonstração preenchida](https://agrovantis-precision.fdaalves.chatgpt.site/demo.html)
+
+A demonstração não exige login no aplicativo e não acessa o Supabase; o Site mantém seu controle de acesso existente. Inclui um produtor fictício, uma propriedade, três talhões (aproximadamente 182 ha), três campanhas e 24 pontos. Edições duram somente até recarregar a página. Limites e pontos são ilustrativos e não representam recomendações agronômicas. Resultados laboratoriais e prescrições ainda não estão implementados.
+
+### Talhões e mapa
+
+![Talhões da fazenda fictícia](docs/images/talhoes-modelo.jpg)
+
+### Amostragem de solo
+
+![Campanha fictícia e coleta de pontos](docs/images/amostragem-modelo.jpg)
