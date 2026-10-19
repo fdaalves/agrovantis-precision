@@ -68,3 +68,31 @@ A demonstração não exige login no aplicativo e não acessa o Supabase; o Site
 #### Propriedades
 
 ![Propriedade fictícia cadastrada](docs/images/propriedades-modelo.png)
+
+### Detalhes dos talhões e da amostragem
+
+#### Talhões em imagem de satélite
+
+![Talhões em imagem de satélite](docs/images/talhoes-satelite.png)
+
+#### Lista de talhões e áreas
+
+![Lista de talhões e áreas](docs/images/talhoes-lista.png)
+
+#### Resumo da campanha de amostragem
+
+![Resumo da campanha de amostragem](docs/images/amostragem-resumo.png)
+
+#### Pontos de coleta no mapa
+
+![Pontos de coleta no mapa](docs/images/amostragem-pontos-mapa.png)
+
+#### Lista e situação das amostras
+
+![Lista e situação das amostras](docs/images/amostragem-lista-pontos.png)
+
+#### Prévia do portal do produtor
+
+![Prévia do portal do produtor](docs/images/portal-produtor-previa.png)
+
+O portal do produtor exibido é uma prévia: ainda não apresenta relatórios técnicos liberados nem comprova autorização entre usuários.
