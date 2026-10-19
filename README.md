@@ -50,3 +50,21 @@ A demonstração não exige login no aplicativo e não acessa o Supabase; o Site
 ### Amostragem de solo
 
 ![Campanha fictícia e coleta de pontos](docs/images/amostragem-modelo.jpg)
+
+### Outras telas da demonstração
+
+#### Visão geral
+
+![Painel com indicadores](docs/images/painel-visao-geral.png)
+
+#### Mapa no painel
+
+![Mapa satélite no painel](docs/images/painel-mapa-satelite.png)
+
+#### Clientes
+
+![Cliente fictício cadastrado](docs/images/clientes-modelo.png)
+
+#### Propriedades
+
+![Propriedade fictícia cadastrada](docs/images/propriedades-modelo.png)
